@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Web Developer.<br>---------------------------------<br>Frontend: AngularJS, SCSS, Bootstrap.<br>Backend: NodeJS, Python/Flask.<br><br>Learning Unity for game development.
+Fullstack Web Developer.<br>---------------------------------<br>Frontend: AngularJS, SCSS, Bootstrap.<br>Backend: NodeJS, Python/Flask.<br><br>Learning React, ThreeJS and GO.
 
 
 ## 🌐 Socials:
