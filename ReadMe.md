@@ -15,11 +15,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/mhymsk98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhymsk98" height="30" width="40" /></a>
-<a href="https://fb.com/justhasanuknow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="justhasanuknow" height="30" width="40" /></a>
-<a href="https://instagram.com/justhasanuknow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justhasanuknow" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@roninrona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@roninrona" height="30" width="40" /></a>
-<a href="https://discord.gg/34V5Jc78RA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="34V5Jc78RA" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mhymsk98" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhymsk98" height="30" width="40" /></a>
+<a href="https://fb.com/justhasanuknow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="justhasanuknow" height="30" width="40" /></a>
+<a href="https://instagram.com/justhasanuknow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justhasanuknow" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@roninrona" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@roninrona" height="30" width="40" /></a>
+<a href="https://discord.gg/34V5Jc78RA" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="34V5Jc78RA" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
