@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justhasanuknow" alt="justhasanuknow" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, ThreeJS, Go.**
+- 🌱 I’m currently learning **NextJS, Go.**
 
 - 👨‍💻 All of my projects are available at [https://www.rona-software.com](https://www.rona-software.com)
 
