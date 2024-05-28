@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS, Go.**
 
-- 👨‍💻 All of my projects are available at (currently under development) [https://www.rona-software.com](https://www.rona-software.com)
+- 👨‍💻 All of my projects are available at (currently under development) [rona-software.com](rona-software.com)
 
 - 📹 I often stream on kick, feel free to drop by [https://www.kick.com/roninrona](https://kick.com/roninrona)
 
