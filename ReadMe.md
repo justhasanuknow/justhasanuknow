@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.rona-software.com](https://www.rona-software.com)
 
-- 📹 I often stream at twitch, feel free to drop by [https://www.twitch.tv/roninrona](https://www.twitch.tv/roninrona)
+- 📹 I often stream on kick, feel free to drop by [https://www.kick.com/roninrona](https://kick.com/roninrona)
 
 - 📫 How to reach me **roninrona.software@gmail.com**
 
