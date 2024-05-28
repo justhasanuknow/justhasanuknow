@@ -11,7 +11,7 @@
 
 - 📹 I often stream on kick, feel free to drop by [https://www.kick.com/roninrona](https://kick.com/roninrona)
 
-- 📫 How to reach me **roninrona.software@gmail.com**
+- 📫 How to reach me **mhymsk1998@hotmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
