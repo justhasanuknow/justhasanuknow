@@ -40,7 +40,7 @@ I'm a passionate **Software Engineer** from Turkey with a background in **Electr
 
 ---
 
-## 📍 GitHub Stats (optional)
+## 📍 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justhasanuknow&show_icons=true&theme=radical" alt="GitHub Stats" />
