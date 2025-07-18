@@ -6,8 +6,7 @@ I'm a passionate **Software Engineer** from Turkey with a background in **Electr
 ## 🚀 What I'm Working On
 - 🎮 Developing a 2D **Souls-like RPG Game** in C++ using **SFML**. This is both my learning ground and the foundation of a larger universe-based narrative.
 - 📡 Researching applications of **Artificial Intelligence in Space & Defense** industries.
-- 📦 Building a lightweight **Redis-like cache database** in C++ as a portfolio project.
-- 🛰️ Exploring **CubeSat**, **RF communication**, and **autonomous drone systems** with a strong interest in **embedded software**.
+- 🌐 Developing **Fullstack Web Applications** as a hobby and professional work.
 
 ---
 
