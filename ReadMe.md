@@ -4,9 +4,9 @@
 
 **Frontend:** Angular · SvelteKit · React · NextJS
 
-**Backend:** ExpressJS
+**Backend:** ExpressJS, Flask
 
-**Databases:** PostgreSQL · MySQL · SQLite · Redis · Supabase
+**Databases:** PostgreSQL · SQLite · Redis · Supabase
 
 **DevOps:** Docker · Self Hosting · Coolify
 
