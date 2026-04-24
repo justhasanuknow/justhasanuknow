@@ -4,7 +4,7 @@
 
 **Frontend:** Angular · SvelteKit · React · NextJS
 
-**Backend:** ExpressJS, Flask
+**Backend:** ExpressJS, Deno, Flask
 
 **Databases:** PostgreSQL · SQLite · Redis · Supabase
 
