@@ -1,4 +1,4 @@
-> EE graduate & Fullstack Web Developer (Angular, ExpressJS) with a passion for applied physics — astrophysics and nuclear physics. I build web systems by day and explore self-hosted infra and local LLMs by night.
+> EE graduate & Fullstack Web Developer (Angular, ExpressJS) with a passion for applied physics — astrophysics and nuclear physics.
 
 **Languages:** TypeScript · C++ · Python
 
