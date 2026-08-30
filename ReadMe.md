@@ -1,16 +1,11 @@
 <h3 align="center">Software Developer · EE Graduate</h3>
 
 I'm an electrical & electronics engineer who spends most days writing software.
-At the moment I build map-based GIS applications — digitization and
+At the moment I build map-based GIS applications, digitization and
 visualization tools, mostly TypeScript on the front with PostgreSQL/PostGIS
 behind them.
 
-The other half of my time goes to physics. I'm preparing for a master's, and
-what pulls me is applied physics: the part where the equations have to survive
-contact with real hardware — numerical methods, simulation, and the
-computational side of the field in general. Coming from engineering rather than
-a physics undergrad means I'm rebuilding a lot from the ground up, which is
-slower but oddly more fun.
+The other half of my time goes to physics. I'm preparing for a master's for applied physics. Coming from engineering rather than a physics undergrad means I'm rebuilding a lot from the ground up, which is slower but oddly more fun.
 
 Most of what ends up on this profile comes out of that overlap: small tools and
 simulations, my Neovim and tmux configs (I work almost entirely in the
