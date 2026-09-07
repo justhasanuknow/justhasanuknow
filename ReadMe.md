@@ -11,6 +11,8 @@ Most of what ends up on this profile comes out of that overlap: small tools and
 simulations, my Neovim and tmux configs (I work almost entirely in the
 terminal), and the self-hosted infrastructure I run on my own machines.
 
+Detailed resume [here](https://resume.ruasystems.com/en).
+
 ---
 
 <table>
