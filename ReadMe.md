@@ -2,3 +2,5 @@ EE graduate who builds systems and AI-driven software by day and relearns physic
 The AI handles the boilerplate; the physics, sadly, I still have to do myself.
 
 [Resume](https://resume.ruasystems.com/en) · [hasan@ruasystems.com](mailto:hasan@ruasystems.com)
+
+<img src="assets/tech-priest.jpg" alt="Frantically chants in binary" width="460">
